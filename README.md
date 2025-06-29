@@ -49,7 +49,7 @@ A simple `.wav` file generator is also included for demo purposes.
 
 ---
 
-## 🚀 Roadmap – Version 1.0 Goals
+## 🚀 Roadmap – Version 0.9 Goals
 
 - ✅ Visually enhanced GUI using a modern GUI framework
 - ✅ Support for additional data formats: `.csv`, `.xlsx`, etc.
