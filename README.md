@@ -1,6 +1,6 @@
-# 🌀 Time-Series Audio Clustering with DBSCAN (v0.9)
+# 🌀 Time-Series Audio Clustering with DBSCAN (v0.1.0)
 
-**Version 0.9** – Published as a **demo and early prototype**. This project explores dimensionality reduction and non-parametric clustering applied to time series data, with an emphasis on audio frequency signals.
+**Version 0.1.0** – Published as a **demo and early prototype**. This project explores dimensionality reduction and non-parametric clustering applied to time series data, with an emphasis on audio frequency signals.
 
 ---
 
